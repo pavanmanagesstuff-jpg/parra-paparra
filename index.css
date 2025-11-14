@@ -1,20 +1,22 @@
 body{
-    background: #FE724C;
+    background: red;
     margin: 0;
 }
 
 #main-div{
-    background: #2f0aeb;
-    width: 70%px;
+    background-image: "url(../../Pictures/_MG_0146.JPG)";
+    width: 70%;
     height: 600px;
     margin-left: 15%;
 }
 
 #name{
-    color:#ffffff;
+    color: black;
     text-align: center;
-    border: solid #000000 5px;
-    /*margin-top: 10px; */
-    padding-top: 25px;
-    font:'serif';
+    border: solid black 5px;
+    font: 'serif';
+}
+
+img{
+    width:300px;
 }
